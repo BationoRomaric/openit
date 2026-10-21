@@ -1,0 +1,25 @@
+{
+  "common": {
+    "nav": {
+      "home": "Inicio",
+      "courses": "Formación",
+      "services": "Servicios",
+      "projects": "Proyectos",
+      "about": "Sobre nosotros",
+      "team": "Nuestro Equipo",
+      "blog": "Blog",
+      "faq": "Preguntas frecuentes",
+      "contact": "Contacto",
+      "quote": "Solicitar Presupuesto"
+    },
+    "appearance": "Apariencia",
+    "language": "Idioma"
+  },
+  "team": {
+    "pageTitle": "Nuestro Equipo",
+    "intro": "Un equipo apasionado dedicado a la innovación digital y a la salud conectada en África.",
+    "subtitle": "Experiencia, compromiso y visión compartida",
+    "sectionTitle": "Nuestros Valores",
+    "valuesDescription": "Unimos nuestras capacidades para hacer de openIT un referente en tecnología y telemedicina. Cada miembro aporta su experiencia para construir soluciones accesibles, sostenibles y orientadas al futuro."
+  }
+}

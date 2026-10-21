@@ -1,0 +1,45 @@
+{
+  "home": {
+    "hero": {
+      "badge": "Formación · Consultoría · Desarrollo",
+      "title": "Construyamos juntos el futuro digital.",
+      "subtitle": "La Nueva Generación de Líderes Digitales",
+      "description": "Aprende, innova y transforma tus ideas en soluciones digitales adaptadas al contexto local.",
+      "button1": "Descubre nuestra formación",
+      "button2": "Presentar mi proyecto"
+    },
+    "expertises": {
+      "title": "Nuestras Áreas de Experiencia",
+      "item1": { "title": "Formación en Informática", "desc": "Del nivel inicial al profesional." },
+      "item2": { "title": "Desarrollo Web y Móvil", "desc": "Sitios y aplicaciones a medida." },
+      "item3": { "title": "Sistemas y Redes", "desc": "Diseño y administración." },
+      "item4": { "title": "Ciberseguridad", "desc": "Auditoría y protección." },
+      "item5": { "title": "Consultoría Digital", "desc": "Transformación digital." },
+      "item6": { "title": "IA y Datos", "desc": "Inteligencia Artificial." },
+      "item7": { "title": "Cloud y DevOps", "desc": "Infraestructura moderna." },
+      "item8": { "title": "Soluciones Digitales", "desc": "Automatización y herramientas." }
+    },
+    "values": {
+      "title": "¿Por qué elegir openIT?",
+      "item1": "Enfoque práctico",
+      "item2": "Acompañamiento personalizado",
+      "item3": "Soluciones adaptadas",
+      "item4": "Innovación",
+      "item5": "Compartir conocimientos",
+      "item6": "Calidad técnica"
+    },
+    "process": {
+      "title": "Nuestro Enfoque",
+      "step1": "Análisis de necesidades",
+      "step2": "Propuesta",
+      "step3": "Planificación",
+      "step4": "Implementación",
+      "step5": "Evaluación"
+    },
+    "cta": {
+      "title": "Tu proyecto comienza aquí.",
+      "btn1": "Solicitar presupuesto gratuito",
+      "btn2": "Contáctanos"
+    }
+  }
+}

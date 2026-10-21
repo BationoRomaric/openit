@@ -1,0 +1,45 @@
+{
+  "home": {
+    "hero": {
+      "badge": "Training · Consulting · Development",
+      "title": "Let's build the digital future together.",
+      "subtitle": "The New Generation of Digital Leaders",
+      "description": "Learn, innovate, and turn your ideas into digital solutions adapted to the local context.",
+      "button1": "Discover our training programs",
+      "button2": "Submit my project"
+    },
+    "expertises": {
+      "title": "Our Areas of Expertise",
+      "item1": { "title": "IT Training", "desc": "From beginner to professional." },
+      "item2": { "title": "Web & Mobile Development", "desc": "Custom websites and applications." },
+      "item3": { "title": "Systems & Networks", "desc": "Design and administration." },
+      "item4": { "title": "Cybersecurity", "desc": "Audit and protection." },
+      "item5": { "title": "IT Consulting", "desc": "Digital transformation." },
+      "item6": { "title": "AI & Data", "desc": "Artificial Intelligence." },
+      "item7": { "title": "Cloud & DevOps", "desc": "Modern infrastructure." },
+      "item8": { "title": "Digital Solutions", "desc": "Automation and tools." }
+    },
+    "values": {
+      "title": "Why Choose openIT?",
+      "item1": "Practical approach",
+      "item2": "Personalized support",
+      "item3": "Tailored solutions",
+      "item4": "Innovation",
+      "item5": "Knowledge sharing",
+      "item6": "Technical excellence"
+    },
+    "process": {
+      "title": "Our Approach",
+      "step1": "Needs analysis",
+      "step2": "Proposal",
+      "step3": "Planning",
+      "step4": "Implementation",
+      "step5": "Evaluation"
+    },
+    "cta": {
+      "title": "Your project starts here.",
+      "btn1": "Get a free quote",
+      "btn2": "Contact us"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "home": {
+    "hero": {
+      "badge": "Formation · Conseil · Développement",
+      "title": "Façonnons ensemble le futur du numérique.",
+      "subtitle": "La Relève du Numérique",
+      "description": "Apprenez, innovez et transformez vos idées en solutions numériques adaptées au contexte local.",
+      "button1": "Découvrir nos formations",
+      "button2": "Présenter mon projet"
+    },
+    "expertises": {
+      "title": "Nos domaines d'expertise",
+      "item1": { "title": "Formation informatique", "desc": "Du débutant au professionnel." },
+      "item2": { "title": "Développement Web & Mobile", "desc": "Sites et applications sur mesure." },
+      "item3": { "title": "Systèmes & Réseaux", "desc": "Conception et administration." },
+      "item4": { "title": "Cybersécurité", "desc": "Audit et protection." },
+      "item5": { "title": "Conseil informatique", "desc": "Transformation numérique." },
+      "item6": { "title": "IA & Données", "desc": "Intelligence artificielle." },
+      "item7": { "title": "Cloud & DevOps", "desc": "Infrastructure moderne." },
+      "item8": { "title": "Solutions numériques", "desc": "Automatisation et outils." }
+    },
+    "values": {
+      "title": "Pourquoi choisir openIT ?",
+      "item1": "Approche pratique",
+      "item2": "Accompagnement personnalisé",
+      "item3": "Solutions adaptées",
+      "item4": "Innovation",
+      "item5": "Partage des compétences",
+      "item6": "Qualité technique"
+    },
+    "process": {
+      "title": "Notre démarche",
+      "step1": "Analyse du besoin",
+      "step2": "Proposition",
+      "step3": "Planification",
+      "step4": "Réalisation",
+      "step5": "Évaluation"
+    },
+    "cta": {
+      "title": "Votre projet commence ici.",
+      "btn1": "Obtenir un devis gratuit",
+      "btn2": "Nous contacter"
+    }
+  }
+}
